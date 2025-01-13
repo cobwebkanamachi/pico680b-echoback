@@ -19,8 +19,8 @@ usage:
 
 code documentation:
 These are all.
-1.Please read: https://www.xenesis.jp/2022/05/altair-680-basic/ esp. POLCAT, INCH.
-2.Please read: https://github.com/simple-circuit/picobug/blob/main/sim680b_rev1.ino 
+1.Please read: https://www.xenesis.jp/2022/05/altair-680-basic/ esp. POLCAT, INCH.<BR>
+2.Please read: https://github.com/simple-circuit/picobug/blob/main/sim680b_rev1.ino <BR>
 <PRE>
 // UART Status 0xF000 Read Only, Bit-1 Transmit Ready, Bit-0 Receive Ready
 //      Use: LDAA $F000 or LDAB $F000
