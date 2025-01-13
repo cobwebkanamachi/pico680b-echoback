@@ -18,7 +18,7 @@ usage:
 </PRE>
 
 code documentation:
-These are all.
+These are all.<BR>
 1.Please read: https://www.xenesis.jp/2022/05/altair-680-basic/ esp. POLCAT, INCH.<BR>
 2.Please read: https://github.com/simple-circuit/picobug/blob/main/sim680b_rev1.ino <BR>
 <PRE>
